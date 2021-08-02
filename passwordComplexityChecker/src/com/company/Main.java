@@ -31,6 +31,8 @@ public class Main {
     }
 
     public static void sayingGoodbye() {
-        System.out.println("Goodbye! :)");
+        System.out.println("\n*********************");
+        System.out.println("**   Goodbye! :)   **");
+        System.out.println("*********************");
     }
 }
